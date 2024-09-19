@@ -1,1 +1,1 @@
-Customer Segmentation project using K-means
+Customer Segmentation using K-means
